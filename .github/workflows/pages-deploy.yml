@@ -36,3 +36,5 @@ jobs:
 
       - name: Deploy
         run: bash tools/release.sh
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
