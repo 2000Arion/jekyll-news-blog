@@ -105,6 +105,7 @@ deploy() {
   git config --global user.name "GitHub Actions"
   git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+  git remote set-url origin "https://github.com/2000Arion/jekyll-news-blog.git?access_token=$ACCESS_TOKEN"
   git update-ref -d HEAD
   git add -A
   git commit -m "[Automation] Site update No.${GITHUB_RUN_NUMBER}"
