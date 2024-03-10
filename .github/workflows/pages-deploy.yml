@@ -2,10 +2,11 @@ name: 'Build & Release'
 on:
   push:
     branches:
-      - master
+      - main
     paths-ignore:
       - .gitignore
       - README.md
+      - CODE_OF_CONDUCT.md
       - LICENSE
 
 jobs:

@@ -2,10 +2,11 @@ name: 'Pull Request'
 on:
   pull_request:
     branches:
-      - master
+      - main
     paths-ignore:
       - .gitignore
       - README.md
+      - CODE_OF_CONDUCT.md
       - LICENSE
 
 jobs:
