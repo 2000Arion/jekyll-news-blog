@@ -34,7 +34,7 @@ description: >-                        # used by seo meta and the atom feed
  Vertrauenswürdigkeit dieser Nachrichten ist unter keinen Umständen gewährleistet.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://citypulsenews.a2data.site'
+url:
 
 github:
   username: 2000Arion
@@ -87,10 +87,10 @@ analytics:
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://pinboard-uploads-production.operacdn.com/images/5e5e615d-08de-4368-aff0-1b83b8e0dcb0'
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/d7aedb01-19b6-4b57-997e-3127c9ca8f7e/64c18a39-090b-4318-99ca-66432a746abe.png'
+avatar: 'https://pinboard-uploads-production.operacdn.com/images/5e5e615d-08de-4368-aff0-1b83b8e0dcb0/d7aedb01-19b6-4b57-997e-3127c9ca8f7e/64c18a39-090b-4318-99ca-66432a746abe.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

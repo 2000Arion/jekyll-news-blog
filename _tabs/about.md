@@ -9,8 +9,4 @@ order: 5
 
 Die Korrektheit, Akualität und Vertrauenswürdigkeit dieser Nachrichten ist unter keinen Umständen gewährleistet.
 
-{% if "darkmode" == "true" %}
-  ![banner](/54dce3ac-33cc-4dee-b4a0-e53c9d525086/f00aca3f-d59b-4d5c-b3c4-2a0a1e334ae1.png)
-{% else %}
-  ![banner](/cf22f369-730b-44f8-9974-11ef506606d3/6f8e7119-8883-40b3-9040-019be88bdfa9.png)
-{% endif %}
+![banner](https://pinboard-uploads-production.operacdn.com/images/5e5e615d-08de-4368-aff0-1b83b8e0dcb0/cf22f369-730b-44f8-9974-11ef506606d3/6f8e7119-8883-40b3-9040-019be88bdfa9.png)
