@@ -106,7 +106,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: 200Arion/jekyll-news-blog
+    repo: 2000Arion/jekyll-news-blog
     repo_id: R_kgDOLeVVZQ
     category: Kommentare
     category_id: DIC_kwDOLeVVZc4Cd3b4
