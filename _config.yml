@@ -112,12 +112,13 @@ comments:
     category_id: DIC_kwDOLeVVZc4Cd3b4
     mapping: pathname
     strict: 0
+    reactions_enabled: 1
     emit_metadata: 1
     input_position: top
+    theme: preferred_color_scheme
     lang: de
     data_loading: lazy
-    crossorigin: anonymous
-    reactions_enabled: 1
+    crossorigin: anonymous    
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
