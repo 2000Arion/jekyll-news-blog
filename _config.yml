@@ -21,17 +21,17 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: CityPulse News                          # the main title
+title: CityPulse News # the main title
 
 tagline: Aktuelle Meldungen 📰 | Verkehrsinfos 🚦 | Wettervorhersagen ☀️ | Dein Stadtpuls ♥️ | Immer informiert, immer voraus
 
-description: >-                        # used by seo meta and the atom feed
- Willkommen bei CityPulse News – Ihrem Onlinemagazin für Nachrichten, Verkehrsinformationen
- und Wettervorhersagen. Wir halten Sie stets informiert und begleiten Sie durch den Puls
- Ihrer Stadt. Beachten Sie bitte, dass CityPulse News lediglich ein Freizeitprojekt ist,
- um den Static-Page-Generator Jekyll besser kennenzulernen. Die vor vorzufindenen Inhalte
- werden mithilfe von Künstlicher Intelligenz erstellt. Die Korrektheit, Akualität und
- Vertrauenswürdigkeit dieser Nachrichten ist unter keinen Umständen gewährleistet.
+description: >- # used by seo meta and the atom feed
+  Willkommen bei CityPulse News – Ihrem Onlinemagazin für Nachrichten, Verkehrsinformationen
+  und Wettervorhersagen. Wir halten Sie stets informiert und begleiten Sie durch den Puls
+  Ihrer Stadt. Beachten Sie bitte, dass CityPulse News lediglich ein Freizeitprojekt ist,
+  um den Static-Page-Generator Jekyll besser kennenzulernen. Die vor vorzufindenen Inhalte
+  werden mithilfe von Künstlicher Intelligenz erstellt. Die Korrektheit, Akualität und
+  Vertrauenswürdigkeit dieser Nachrichten ist unter keinen Umständen gewährleistet.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url:
@@ -52,10 +52,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: a2data
-  email: cpn-redaktion@arion2000.xyz             # change to your email address
+  email: cpn-redaktion@arion2000.xyz # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://arion2000.xyz     
+    - https://arion2000.xyz
     - https://r.arion2000.xyz/github
 
 
@@ -65,7 +65,7 @@ social:
 # Web Analytics Settings
 analytics:
   google:
-    id: 'G-MWH5CHGDZZ'          # Fill with your Google Analytics ID
+    id: "G-MWH5CHGDZZ" # Fill with your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
 
@@ -90,20 +90,20 @@ analytics:
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://pinboard-uploads-production.operacdn.com/images/5e5e615d-08de-4368-aff0-1b83b8e0dcb0/d7aedb01-19b6-4b57-997e-3127c9ca8f7e/64c18a39-090b-4318-99ca-66432a746abe.png'
+avatar: "https://pinboard-uploads-production.operacdn.com/images/5e5e615d-08de-4368-aff0-1b83b8e0dcb0/d7aedb01-19b6-4b57-997e-3127c9ca8f7e/64c18a39-090b-4318-99ca-66432a746abe.png"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 comments:
-  active: giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo:         # <gh-username>/<repo>
-    issue_term:   # < url | pathname | title | ...>
+    repo: # <gh-username>/<repo>
+    issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: 200Arion/jekyll-news-blog
@@ -122,10 +122,10 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: true     # boolean, keep empty means false
+    enabled: true # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env:          # [development|production]
+    env: # [development|production]
 
 pwa:
   enabled: true # the option for PWA feature (installable)

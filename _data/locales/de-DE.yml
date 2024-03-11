@@ -33,7 +33,7 @@ copyright:
   license:
     template: Dieser Post ist unter :LICENSE_NAME vom Autor lizensiert.
     name: GNU GPLv3
-    link: https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
+    link: https://github.com/2000Arion/jekyll-news-blog/blob/main/LICENSE
 
   # Displayed in the footer
   brief: Bestimmte Rechte vorbehalten.
@@ -41,7 +41,7 @@ copyright:
     Sofern nichts anderes angegeben ist, sind Inhalte auf dieser Webseite
     gemäß der GNU General Public License 3.0 (GNU GPLv3) Lizenz durch den Verfasser lizensiert.
 
-meta: '<a href="/sponsor/">🤝 Helfen Sie mit, dass diese Seite werbefrei bleibt!</href>'
+meta: '<a href="/sponsor/">🤝 Helfen Sie mit, dass diese Seite werbefrei bleibt!</a>'
 
 not_found:
   statment: Entschuldigen Sie bitte, aber die von Ihnen gesuchte Seite konnte nicht gefunden werden. Möglicherweise ist die Adresse falsch geschrieben, die Seite wurde verschoben oder existiert nicht mehr.
