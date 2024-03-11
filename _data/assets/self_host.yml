@@ -45,8 +45,8 @@ clipboard:
   js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/clipboard-2.0.11/clipboard.min.js
 
 lazy-polyfill:
-  css: https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.min.css
-  js: https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js
+  css: https://media.arion2000.xyz/cdn/_uploads/css/d/cpn/lib/loading-attribute-polyfill-2.1.1/dist/loading-attribute-polyfill.min.css
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/loading-attribute-polyfill-2.1.1/dist/loading-attribute-polyfill.umd.min.js
 
 mathjax:
-  js: https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/mathjax-3.2.2/es5/tex-chtml.js
