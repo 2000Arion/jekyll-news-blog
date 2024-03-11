@@ -1,51 +1,52 @@
 # fonts
 
-webfonts: /assets/lib/fonts/main.css
+webfonts: https://media.arion2000.xyz/cdn/_uploads/css/d/cpn/lib/fonts/main.css
 
 # Libraries
 
 jquery:
-  js: /assets/lib/jquery-3.7.1/jquery.min.js
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/jquery-3.7.1/jquery.min.js
 
 bootstrap:
-  css: /assets/lib/bootstrap-5.3.2/bootstrap.min.css
-  js: /assets/lib/bootstrap-5.3.2/bootstrap.bundle.min.js
+  css: https://media.arion2000.xyz/cdn/_uploads/css/d/cpn/lib/bootstrap-5.3.2/bootstrap.min.css
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/bootstrap-5.3.2/bootstrap.bundle.min.js
 
 bootstrap-toc:
-  css: /assets/lib/bootstrap-toc-4.25.0/bootstrap-toc.min.css
-  js: /assets/lib/bootstrap-toc-4.25.0/bootstrap-toc.min.js
+  css: https://media.arion2000.xyz/cdn/_uploads/css/d/cpn/lib/bootstrap-toc-4.25.0/bootstrap-toc.min.css
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/bootstrap-toc-4.25.0/bootstrap-toc.min.js
 
 fontawesome:
-  css: /assets/lib/fontawesome-free-6.2.1/css/all.min.css
+  css: https://media.arion2000.xyz/cdn/_uploads/css/d/cpn/lib/fontawesome-free-6.5.1/css/all.min.css
 
 search:
-  js: /assets/lib/simple-jekyll-search-1.10.0/simple-jekyll-search.min.js
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/simple-jekyll-search-1.10.0/simple-jekyll-search.min.js
 
 mermaid:
-  js: /assets/lib/mermaid-9.1.7/mermaid.min.js
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/mermaid-10.8.0/mermaid.min.js
 
 dayjs:
   js:
-    common: /assets/lib/dayjs-1.10.7/dayjs.min.js
-    locale: /assets/lib/dayjs-1.10.7/locale/en.min.js
-    relativeTime: /assets/lib/dayjs-1.10.7/plugin/relativeTime.min.js
-    localizedFormat: /assets/lib/dayjs-1.10.7/plugin/localizedFormat.min.js
+    common: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/dayjs-1.11.10/dayjs.min.js
+    locale: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/dayjs-1.11.10/locale/de.min.js
+    relativeTime: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/dayjs-1.11.10/plugin/relativeTime.min.js
+    localizedFormat: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/dayjs-1.11.10/plugin/localizedFormat.min.js
 
 countup:
-  js: /assets/lib/countup.js-1.9.3/countUp.min.js
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/countup.js-1.9.3/countUp.min.js
 
 magnific-popup:
-  css: /assets/lib/magnific-popup-1.1.0/magnific-popup.css
-  js: /assets/lib/magnific-popup-1.1.0/jquery.magnific-popup.min.js
+  css: https://media.arion2000.xyz/cdn/_uploads/css/d/cpn/lib/magnific-popup-1.1.0/magnific-popup.css
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/magnific-popup-1.1.0/jquery.magnific-popup.min.js
 
 lazysizes:
-  js: /assets/lib/lazysizes-5.3.2/lazysizes.min.js
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/lazysizes-5.3.2/lazysizes.min.js
 
 clipboard:
-  js: /assets/lib/clipboard-2.0.9/clipboard.min.js
+  js: https://media.arion2000.xyz/cdn/_uploads/js/d/cpn/lib/clipboard-2.0.11/clipboard.min.js
 
-polyfill:
-  js: /assets/lib/polyfill-v3-es6/polyfill.min.js
+lazy-polyfill:
+  css: https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.min.css
+  js: https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js
 
 mathjax:
-  js: /assets/lib/mathjax-3.2.0/tex-chtml.js
+  js: https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js
