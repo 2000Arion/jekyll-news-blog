@@ -8,8 +8,8 @@ jquery:
   js: /assets/lib/jquery-3.7.1/jquery.min.js
 
 bootstrap:
-  css: /assets/lib/bootstrap-5.3.2/bootstrap.min.css
-  js: /assets/lib/bootstrap-5.3.2/bootstrap.bundle.min.js
+  css: /assets/lib/bootstrap/bootstrap.min.css
+  js: /assets/lib/bootstrap/bootstrap.bundle.min.js
 
 bootstrap-toc:
   css: /assets/lib/bootstrap-toc-4.25.0/bootstrap-toc.min.css
