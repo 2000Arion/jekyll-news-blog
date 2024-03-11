@@ -14,9 +14,9 @@
 - type: discord
   icon: "fab fa-discord"
   url: "https://discord.arion2000.xyz"
-- type: github-custom
-  icon: "fab fa-github"
-  url: "https://r.arion2000.xyz/github"
+#- type: github-custom
+#  icon: "fab fa-github"
+#  url: "https://r.arion2000.xyz/github"
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'
