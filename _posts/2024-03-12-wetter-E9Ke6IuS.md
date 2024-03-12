@@ -12,6 +12,10 @@ image:
     path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/192c8eb2-1c04-4261-aa2b-dc4a2598bc50/2f386e94-dd84-4a75-a307-96a7f1f1805c.jpeg
 ---
 
+<audio controls><source src="https://files.arion2000.xyz/r/CityPulseNews-wvAudio-E9Ke6IuS.mp3" type="audio/mp3">Your browser does not support the audio element.</audio>
+
+---
+
 ## Wetterbericht für Hamburg und Umgebung (12. März 2024)
 
 **Heute:**
@@ -34,18 +38,13 @@ image:
 
 **Aktuell:**
 
-- **A7:** Zähflüssiger Verkehr zwischen HH-Elbmarsch und Heimfeld in Richtung Süden.
+- **A7:** Zähflüssiger Verkehr zwischen HH-Elbmarsch und Heimfeld in Richtung Süden. **(Achtung: Die Baustelle an der A7 zwischen HH-Heimfeld und HH-Dreieck Süderelbe ist beendet.)**
 - **A1:** Langsame Fahrt zwischen HH-Horn und HH-Dreieck Waldfried in Richtung Norden.
-- **B5:** Baustelle zwischen Geesthacht und Tespe, Behinderungen in beiden Richtungen.
-
-**U-Bahn:**
-
-- **Linie U2:** Verzögerungen zwischen Billstedt und Ulzburg Süd aufgrund eines Signalfehlers.
-- **Linie U4:** Keine Einschränkungen.
+- **B5:** Die Baustelle zwischen Geesthacht und Tespe ist beendet.
 
 **Bus:**
 
-- **Linie 17:** Umleitung in Eimsbüttel aufgrund von Bauarbeiten.
+- **Linie 17:** Die Umleitung in Eimsbüttel ist beendet.
 - **Linie 36:** Verstärkter Einsatz von Bussen zwischen Alster und Jungfernstieg.
 
 **Hafen:**
@@ -59,7 +58,7 @@ image:
 
 **Hinweise:**
 
-- Die Informationen in diesem Bericht basieren auf dem aktuellen Stand (12.03.2024, 16:00 Uhr). Die tatsächliche Lage kann abweichen.
+- Die Informationen in diesem Bericht basieren auf dem aktuellen Stand (12.03.2024, 17:40 Uhr). Die tatsächliche Lage kann abweichen.
 - Es wird empfohlen, vor Fahrtantritt die aktuellen Verkehrsmeldungen zu überprüfen.
 
 ---
