@@ -38,4 +38,4 @@ Dieses kuriose Ereignis zeigt einmal wieder die Unvorhersehbarkeit der Natur. Ob
 
 ---
 
-Bild von <a href="https://pixabay.com/de/users/couleur-1195798/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1893080">Ilo</a> auf <a href="https://pixabay.com/de//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1893080">Pixabay</a>
+Bild von <a href="https://pixabay.com/de/users/couleur-1195798/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1893080">Ilo</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1893080">Pixabay</a>
