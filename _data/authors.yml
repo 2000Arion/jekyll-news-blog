@@ -1,3 +1,9 @@
 arion2000:
     name: Arion2000
     email: mail@arion2000.xyz
+chatgpt: 
+    name: ChatGPT (AI)
+    email: support@openai.com
+gemini:
+    name: Gemini (AI)
+    email: deutschland@google.com
