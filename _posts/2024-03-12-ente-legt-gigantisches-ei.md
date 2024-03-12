@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ente legt gigantisches Ei - Weltrekord in Gefahr?"
-date: 2024-03-12 16:00
+date: 2024-03-12 16:00 +0100
 authors: [arion2000, gemini]
 slug: gtmksqNt
 categories:
