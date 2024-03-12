@@ -16,13 +16,15 @@ image:
 
 **Heute:**
 
-- **Wetter:** Leichter Nieselregen, Temperaturen zwischen 5°C und 10°C.
-- **Wind:** Schwach aus Nordost.
+- **Wetter:** Leichter Nieselregen, vereinzelt Schauer möglich.
+- **Temperaturen:** Zwischen 5°C und 10°C.
+- **Wind:** Schwach bis mäßig aus Nordost.
 - **Regenwahrscheinlichkeit:** 70%.
 
 **Morgen:**
 
-- **Wetter:** Teilweise bewölkt, Aufheiterungen im Laufe des Tages, Temperaturen zwischen 4°C und 9°C.
+- **Wetter:** Teilweise bewölkt, Aufheiterungen im Laufe des Tages.
+- **Temperaturen:** Zwischen 4°C und 9°C.
 - **Wind:** Mäßig aus Ost.
 - **Regenwahrscheinlichkeit:** 20%.
 
