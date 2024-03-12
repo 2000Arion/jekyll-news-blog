@@ -12,11 +12,13 @@ image:
     path: /assets/img/headers/duck-1893080_1280.jpg
 ---
 
-> ***Hinweis:** Dieser Artikel wurde mithilfe künstlicher Intelligenz erstellt. Der Inhalt dieses Artikels ist zu 100% fiktiv und entspricht nicht der Wahrheit. Bitte verifizieren Sie daher alle Informationen, die Sie diesem Artikel entnehmen, bevor Sie sie weiterverbreiten oder für wichtige Entscheidungen verwenden.*
+**Henstedt-Ulzburg, 12. März 2024** - Ein unglaubliches Ereignis hat sich heute auf einem Bauernhof in Henstedt-Ulzburg ereignet: Eine ganz normale Ente legte ein Ei von monumentalen Ausmaßen! Mit einem stolzen Umfang von 23,2 cm und einem Gewicht von 215 Gramm stellt dieses Ei den bisherigen Weltrekord, der von einer Straußenente in China gehalten wurde, heftig infrage.
 
 ---
 
-**Henstedt-Ulzburg, 12. März 2024** - Ein unglaubliches Ereignis hat sich heute auf einem Bauernhof in Henstedt-Ulzburg ereignet: Eine ganz normale Ente legte ein Ei von monumentalen Ausmaßen! Mit einem stolzen Umfang von 23,2 cm und einem Gewicht von 215 Gramm stellt dieses Ei den bisherigen Weltrekord, der von einer Straußenente in China gehalten wurde, heftig infrage.
+> ***Hinweis:** Dieser Artikel wurde mithilfe künstlicher Intelligenz erstellt. Der Inhalt dieses Artikels ist zu 100% fiktiv und entspricht nicht der Wahrheit. Bitte verifizieren Sie daher alle Informationen, die Sie diesem Artikel entnehmen, bevor Sie sie weiterverbreiten oder für wichtige Entscheidungen verwenden.*
+
+---
 
 #### Ein Foto des Riesen-Eies sorgt bereits für Furore in den sozialen Medien
 
