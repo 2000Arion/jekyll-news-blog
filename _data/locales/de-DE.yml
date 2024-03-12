@@ -80,9 +80,9 @@ post:
 df:
   post:
     strftime: '%e. %b %Y'
-    dayjs: 'D. MMM YYYY'
+    dayjs: 'DD.MM.YYYY'
   archives:
-    strftime: '%b'
+    strftime: '%d.%m.%Y'
     dayjs: 'MMM'
 
 # categories page
