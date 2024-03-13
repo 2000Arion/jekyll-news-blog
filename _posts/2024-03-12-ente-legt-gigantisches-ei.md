@@ -9,7 +9,7 @@ categories:
 comments: true
 tags: [Riesen-Ei, Weltrekord, Ente, Kuriositäten, Social Media, Tierwelt, Naturphänomen, Wissenschaft, Humor, Rekordverdächtig, Ernährung, Twitter, Meme, Henstedt-Ulzburg, Bauernhof, Frieda Meier, Ei-Ausstellung, Gentechnik, Mutation, Naturwunder, Unglaubliche Entdeckung, viraler Hit]
 image:
-    path: /assets/img/headers/duck-1893080_1280.jpg
+    path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/2e0f84ed-0685-45fe-9e65-3b8bd8e6ae99/1f56eab6-63b8-4edf-a5de-e72f391a83db.png
 ---
 
 **Henstedt-Ulzburg, 12. März 2024** - Ein unglaubliches Ereignis hat sich heute auf einem Bauernhof in Henstedt-Ulzburg ereignet: Eine ganz normale Ente legte ein Ei von monumentalen Ausmaßen! Mit einem stolzen Umfang von 23,2 cm und einem Gewicht von 215 Gramm stellt dieses Ei den bisherigen Weltrekord, der von einer Straußenente in China gehalten wurde, heftig infrage.

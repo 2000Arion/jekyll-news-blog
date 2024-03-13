@@ -8,7 +8,7 @@ categories:
     - Wetter & Verkehr
 tags: [Hamburg, Wetterbericht, Verkehrsbericht, Stau, U-Bahn, Bus, Verkehrslage, Wettervorhersage]
 image:
-    path: /assets/img/headers/clouds-3488632_1920.jpg
+    path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/6895f666-38ce-4a54-aad5-f8d2a2e3730f/5bd7d07d-ce29-436a-ba6f-ad38ecdba311.png
 ---
 
 ## Wetterbericht für Hamburg und Umgebung (11. März 2024)
