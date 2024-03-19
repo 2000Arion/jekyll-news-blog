@@ -9,4 +9,4 @@ order: 5
 
 Die Korrektheit, Akualität und Vertrauenswürdigkeit dieser Nachrichten ist unter keinen Umständen gewährleistet.
 
-![banner](https://pinboard-uploads-production.operacdn.com/images/5e5e615d-08de-4368-aff0-1b83b8e0dcb0/cf22f369-730b-44f8-9974-11ef506606d3/6f8e7119-8883-40b3-9040-019be88bdfa9.png)
+![banner](https://pinboard-uploads-production.operacdn.com/images/8767c348-abc1-41a3-b41e-db2c96afca08/c10b0e1c-c557-4b9f-840c-58f3037a5c0b/911aa2c2-92e0-495f-9302-3f1f0e896fce.png)
