@@ -12,10 +12,6 @@ image:
     path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/192c8eb2-1c04-4261-aa2b-dc4a2598bc50/2f386e94-dd84-4a75-a307-96a7f1f1805c.jpeg
 ---
 
-<audio controls><source src="https://files.arion2000.xyz/r/CityPulseNews-wvAudio-E9Ke6IuS.mp3" type="audio/mp3"></audio>
-
----
-
 ## Wetterbericht für Hamburg und Umgebung (12. März 2024)
 
 **Heute:**
