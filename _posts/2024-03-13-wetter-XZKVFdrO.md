@@ -12,10 +12,6 @@ image:
     path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/8c03ac21-31c0-4946-995d-66940d7eaac7/b601956e-08eb-4479-8a4a-6e1e71645d33.jpeg
 ---
 
-<audio controls><source src="https://files.arion2000.xyz/r/CityPulseNews-wvAudio-XZKVFdrO.mp3" type="audio/mp3"></audio>
-
----
-
 ## Wetter
 
 - **Bewölkung:** Die Bewölkung nimmt im Laufe des Abends zu und es kann vereinzelt zu leichten Regenfällen kommen.
