@@ -9,4 +9,4 @@ order: 5
 
 Die Korrektheit, Akualität und Vertrauenswürdigkeit dieser Nachrichten ist unter keinen Umständen gewährleistet.
 
-![banner](https://storage.a2data.site/v/kLTmWdkc)
+![banner](https://storage.a2data.site/storage/api/public/dl/kLTmWdkc)
