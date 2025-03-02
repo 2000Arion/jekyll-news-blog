@@ -9,7 +9,7 @@ categories:
     - Wetter & Verkehr
 tags: [Hamburg, Wetterbericht, Verkehrslage, A7, A1, B5, U-Bahn, Bus, Hafen, Rush Hour, ÖPNV, Aprilwetter, Baustellen, Pendlerverkehr, Regenwetter, Stauvermeidung, Alternative Mobilität]
 image:
-    path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/192c8eb2-1c04-4261-aa2b-dc4a2598bc50/2f386e94-dd84-4a75-a307-96a7f1f1805c.jpeg
+    path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/192c8eb2-1c04-4261-aa2b-dc4a2598bc50/a074a4f1-f5f6-474c-a552-5134061e306b.jpeg
 ---
 
 ## Wetterbericht für Hamburg und Umgebung (12. März 2024)
