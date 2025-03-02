@@ -9,7 +9,7 @@ categories:
     - Wetter & Verkehr
 tags: [Wetter, Bewölkung, Regen, Temperatur, Wind, UV-Index, Gefühlte Temperatur, Verkehr, Berufsverkehr, Verzögerungen, Autobahnen, HVV, Störungen, Fahrrad, Hamburg, Vorhersage, Reiseinformationen, Abendverkehr, Nasse Straßen, Eingeschränkte Sicht, Vorsichtiges Fahren, Sicherheit im Straßenverkehr, Aktuelle Informationen, Wetterbericht, Verkehrslage]
 image:
-    path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/8c03ac21-31c0-4946-995d-66940d7eaac7/b601956e-08eb-4479-8a4a-6e1e71645d33.jpeg
+    path: https://pinboard-uploads-production.operacdn.com/images/deb333f5-0df0-4e86-8651-c84f08100fe0/8c03ac21-31c0-4946-995d-66940d7eaac7/12546ce0-a61b-49fc-b8c6-b760c5aaf7ec.jpeg
 ---
 
 ## Wetter
